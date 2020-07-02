@@ -6,4 +6,8 @@ package com.partha.gitlearning.models;
  */
 public class Student {
 
+	private String studentName;
+	
+	private String dept;
+	
 }
